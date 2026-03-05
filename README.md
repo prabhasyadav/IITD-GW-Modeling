@@ -7,6 +7,10 @@ This repository provides:
 1. Slides
 2. MODFLOW/MODPATH files
 
+- Use PDF in *MODFLOW_Installation_docs* folder to learn how to download and install MODFLOW and related executables (.exe) files.
+- MODFLOW and related executables are provided in *MODFLOW_Executables* folder. ModelMuse.exe should be installed, while other .exe file should be saved in a specific folder (e.g. mydocuments)
+- *MODFLOW_Models* folder contains models and documentation folders. The documentation folder contains the PDF, which is to be used for setting/developing MODFLOW model using ModelMuse Interface  
+
 **Important links**:
 
 - [MODFLOW](https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs)
